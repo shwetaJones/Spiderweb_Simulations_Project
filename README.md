@@ -1,5 +1,5 @@
 # WebSimulation
-
+### Contributors: Vratin Srivastava, Shweta Jones, Tresha Desai, Anushka Sinha
 This folder contains an aritifical spider web simulation for final project for the course Programming For Scientists, Fall 2022. 
 
 To run the simulation, put the WebSimulation folder in your go/src folder. 
