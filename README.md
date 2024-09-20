@@ -3,6 +3,7 @@
 This folder contains an aritifical spider web simulation for final project for the course Programming For Scientists, Fall 2022. 
 
 ![spiderweb](https://github.com/user-attachments/assets/5bbe9af7-c260-44e2-ae57-e957c5df4c94)
+![webs1](https://github.com/user-attachments/assets/c7a68fc6-5dd3-442a-8bc5-ae1cc384162d)
 
 
 To run the simulation, put the WebSimulation folder in your go/src folder. 
