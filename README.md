@@ -1,14 +1,16 @@
 # WebSimulation
 ### Contributors: Vratin Srivastava, Shweta Jones, Tresha Desai, Anushka Sinha
-This folder contains an aritifical spider web simulation for final project for the course Programming For Scientists, Fall 2022. 
+This folder contains an artificial spider web simulation for final project for the course Programming For Scientists, Fall 2022. 
 
-![spiderweb](https://github.com/user-attachments/assets/5bbe9af7-c260-44e2-ae57-e957c5df4c94)
-![webs1](https://github.com/user-attachments/assets/c7a68fc6-5dd3-442a-8bc5-ae1cc384162d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5bbe9af7-c260-44e2-ae57-e957c5df4c94" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c7a68fc6-5dd3-442a-8bc5-ae1cc384162d" width="400"/>
+</div>
 
+To run the simulation, put the WebSimulation folder in your go/src folder.
 
-To run the simulation, put the WebSimulation folder in your go/src folder. 
+Git clone https://github.com/icza/gowut.git to go/src
 
-Git clone https://github.com/icza/gowut.git to go/src 
 Or copy the gowut folder included in the zip folder into /src
 
 Compile the code by inputting "go build" on your terminal. You will need to open a terminal for the web simulation, and another one for server and server2. Server corresponds to the symmetric web and Server2 corresponds to the  random web generation. Build on server and server2 first and then run server.exe and server2.exe after navigating to the respective folders. Then build in the webby folder and run webby.exe.
