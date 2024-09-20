@@ -2,6 +2,9 @@
 ### Contributors: Vratin Srivastava, Shweta Jones, Tresha Desai, Anushka Sinha
 This folder contains an aritifical spider web simulation for final project for the course Programming For Scientists, Fall 2022. 
 
+![spiderweb](https://github.com/user-attachments/assets/5bbe9af7-c260-44e2-ae57-e957c5df4c94)
+
+
 To run the simulation, put the WebSimulation folder in your go/src folder. 
 
 Git clone https://github.com/icza/gowut.git to go/src 
